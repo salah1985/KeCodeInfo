@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(196, 241, 151);
+    text-align: center;
+    margin-top: 250px;;
+}
+h1{
+    font-size: 11rem;
+}
+div{
+    display: inline-block;
+    width: 200px;
+    margin: 5px;
+}
+h2{
+    background-color: rgb(159, 197, 255);
+    padding: 18px;
+}
+p{
+    background-color:white;
+    padding: 18px;
+}
